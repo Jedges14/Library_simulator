@@ -13,7 +13,7 @@ class Book:
         self.wizard_file=wizard_file
       
     def get_wiz(self):
-        '''initializing func to open books file'''
+        '''initializing function to open books file'''
         
         try:
             with open('wizard_books.txt', 'r') as file:

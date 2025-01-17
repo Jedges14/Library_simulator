@@ -1,7 +1,7 @@
 '''
     Project: Wizard Librarian
-    Program Description: simulating a digital library site with properties
-    like sort, search, exit
+    Program Description: simulating a digital library website backend.
+    
 '''
 
 
